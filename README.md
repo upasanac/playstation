@@ -51,6 +51,8 @@ Alternatively, the search can be performed from an html page:
 
 http://localhost:4502/content/playstation/us/en/list-pages.csearch.html?searchRoot=/content/playstation&componentPath=playstation/components/title&formatOutput=true
 
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/5688178/219200494-58e6c2a8-c9b2-48ff-a119-28a3e4ba45fc.png">
+
 
 ## How to build
 
