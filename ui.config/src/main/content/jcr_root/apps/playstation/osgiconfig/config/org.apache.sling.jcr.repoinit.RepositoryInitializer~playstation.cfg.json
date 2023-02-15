@@ -1,0 +1,6 @@
+{
+    "scripts": [
+        "create service user playstation-system-user",
+        "set ACL for playstation-system-user\n\tallow jcr:read on /content/playstation\nend"
+    ]
+}

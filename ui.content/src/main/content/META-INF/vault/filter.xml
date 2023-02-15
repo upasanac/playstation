@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/playstation" mode="merge"/>
+    <filter root="/content/playstation" mode="merge"/>
+    <filter root="/content/dam/playstation/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/playstation" mode="merge"/>
+</workspaceFilter>

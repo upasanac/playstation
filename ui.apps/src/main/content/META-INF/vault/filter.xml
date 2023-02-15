@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/playstation/clientlibs"/>
+    <filter root="/apps/playstation/components"/>
+    <filter root="/apps/playstation/i18n"/>
+</workspaceFilter>
