@@ -53,6 +53,8 @@ http://localhost:4502/content/playstation/us/en/list-pages.csearch.html?searchRo
 
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/5688178/219200494-58e6c2a8-c9b2-48ff-a119-28a3e4ba45fc.png">
 
+![image](https://user-images.githubusercontent.com/5688178/219206190-36208aa7-518c-47bc-a6b7-9c037e8db8fa.png)
+
 
 ## How to build
 
