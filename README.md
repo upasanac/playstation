@@ -4,9 +4,9 @@ This is a project template for AEM-based applications.
 It creates a servlet to get the list of pages having a particular component with number of times the component being used on a page.
 
 Input values to the servlet:
-1) Root path - Search root path
+1) searchRoot - Search root path
 
-2) Component path - The path of the component to be searched. Eg: playstation/components/title
+2) componentPath - The path of the component to be searched. Eg: playstation/components/title
 
 3) formatOutput - Optional param to display formatted output.
 
