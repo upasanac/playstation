@@ -1,7 +1,7 @@
 # Playstation Project
 
 This is a project template for AEM-based applications. 
-It creates a servlet to get the list of page having a particular component with number of times the component being used on a page.
+It creates a servlet to get the list of pages having a particular component with number of times the component being used on a page.
 
 Input values to the servlet:
 1) Root path - Search root path
